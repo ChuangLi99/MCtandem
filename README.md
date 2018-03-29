@@ -1,6 +1,6 @@
 #                                            MCtandem
-# An MIC cluster-enabled spectrum dot product algorithm for fast peptide identification
-MCtandem is a parallel peptide database search sequencing tool based on Many Integrated Core (MIC) cluster. It significantly increases the efficiency of database search sequencing and thus is significant in deriving peptide sequences from mass spectrometry data. 
+# An MIC cluster-enabled spectrum dot product algorithm for large-scale peptide identification
+MCtandem is a parallel peptide database search sequencing tool based on Many Integrated Core (MIC) cluster. It significantly increases the efficiency of large-scale database search sequencing and thus is significant in deriving peptide sequences from mass spectrometry data. 
 
 # Installation and Requirements
 Hardware requirements: MIC cluster. Each Intel MIC workstation besides containing an Intel Xeon E5-2640 v2 processor with 8 physical cores clocked at 2.0 GHz and 8G RAM, and an Intel Xeon Phi Coprocessor 7120P series with 61 cores at 1.33 GHz and 16G RAM. The running OS is NeoKylin 3.2, 64 bits. 
