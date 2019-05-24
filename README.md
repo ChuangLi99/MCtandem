@@ -1,3 +1,6 @@
+#   Please wait for us to issue the updates. You will be getting them in at most 14 days.
+
+
 #                                            MCtandem
 # An MIC cluster-enabled spectrum dot product algorithm for large-scale peptide identification
 MCtandem is a parallel peptide database search sequencing tool based on Many Integrated Core (MIC) cluster. It significantly increases the efficiency of large-scale database search sequencing and thus is significant in deriving peptide sequences from mass spectrometry data. 
