@@ -1,3 +1,12 @@
+#   2019.6.15 updated.
+
+#   MCtandem is a parallel version of X!Tandem. We mainly modified the mscore.cpp, tandem.cpp and Makefile files.
+
+Instead of using .rar files, we have added the individual files to the repository, organizing things using folders.
+1. Modify the comments in the source code
+2. Add script command file.
+3. Comment the location of some optimization strategies added to the code.
+
 #   Please wait for us to issue the updates. You will be getting them in at most 14 days.
 
 
